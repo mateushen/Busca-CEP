@@ -39,6 +39,7 @@ export default function App() {
           <div className="field">
             <span>CEP</span>
             <input
+              maxLength={8}
               type="text"
               placeholder="Digite o CEP"
               className="input"
