@@ -1,0 +1,16 @@
+.header {
+    background-color: #43425D;
+    height: 100px;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.title {
+    color: #FFF;
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 100px;
+}
